@@ -1,0 +1,14 @@
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\obj\Debug\net6.0\Interfaces_Palmer_Justin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\obj\Debug\net6.0\Interfaces_Palmer_Justin.AssemblyInfoInputs.cache
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\obj\Debug\net6.0\Interfaces_Palmer_Justin.AssemblyInfo.cs
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\obj\Debug\net6.0\Interfaces_Palmer_Justin.csproj.CoreCompileInputs.cache
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\bin\Debug\net6.0\Interfaces_Palmer_Justin.exe
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\bin\Debug\net6.0\Interfaces_Palmer_Justin.deps.json
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\bin\Debug\net6.0\Interfaces_Palmer_Justin.runtimeconfig.json
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\bin\Debug\net6.0\Interfaces_Palmer_Justin.dll
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\bin\Debug\net6.0\Interfaces_Palmer_Justin.pdb
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\obj\Debug\net6.0\Interfaces_Palmer_Justin.dll
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\obj\Debug\net6.0\refint\Interfaces_Palmer_Justin.dll
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\obj\Debug\net6.0\Interfaces_Palmer_Justin.pdb
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\obj\Debug\net6.0\Interfaces_Palmer_Justin.genruntimeconfig.cache
+C:\Users\JustinPalmer\source\repos\Interfaces_Palmer_Justin\obj\Debug\net6.0\ref\Interfaces_Palmer_Justin.dll
